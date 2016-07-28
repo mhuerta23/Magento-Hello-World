@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rand_HelloWorld><!-- My Module Name -->
+            <active>true</active>
+            <codePool>local</codePool>
+        </Rand_HelloWorld>
+    </modules>
+</config>
